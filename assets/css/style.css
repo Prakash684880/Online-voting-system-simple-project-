@@ -1,0 +1,15 @@
+.text-white { color: #fff; }
+.bg-white { background-color: #fff; }
+
+.bg-black {background-color: #000; }
+.text-black {color:#000;}
+
+.bg-green { background-color: #007bff; }
+.text-green {color: #007bff; }
+
+.candidate_photo {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #007bff;
+    border-radius: 100%;
+}
